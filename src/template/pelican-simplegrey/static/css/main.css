@@ -309,3 +309,7 @@ li.tag-4 { font-size: 110%; margin: 0 1em; }
   }
 }
 
+/* My serction */
+img {
+  max-width: 900px;
+}

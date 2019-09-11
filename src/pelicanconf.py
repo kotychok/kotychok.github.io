@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = 'kidscancode.org (translated by Kotychok)'
+AUTHOR = 'kidscancode.org (перекладено Kotychok)'
 SITENAME = 'Godot Translate Project from KidsCanCode'
 SITEURL = ''
 
@@ -23,7 +23,7 @@ AUTHOR_FEED_RSS = None
 LINKS = (('Pelican', 'http://getpelican.com/'),
          ('Python.org', 'http://python.org/'),
          ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+         )
 
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
